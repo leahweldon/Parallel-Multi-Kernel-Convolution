@@ -2,7 +2,7 @@
 
 **Parallel CPU convolution using OpenMP, SSE SIMD intrinsics, and cache-conscious kernel access.**
 
-A collaborative systems-programming project for **CSU33014 — Concurrent Systems I** at **Trinity College Dublin (2023–2024)**. We optimised a multi-channel, multi-kernel convolution routine used to model the computational core of a convolutional neural network (CNN) layer. The goal was to produce the same result as a supplied scalar reference while reducing execution time on an x86 multicore machine.
+A collaborative systems-programming project for **CSU33014 - Concurrent Systems I** at **Trinity College Dublin (2023–2024)**. We optimised a multi-channel, multi-kernel convolution routine used to model the computational core of a convolutional neural network (CNN) layer. The goal was to produce the same result as a supplied scalar reference while reducing execution time on an x86 multicore machine.
 
 **Team:** Faith Olopade · Darius Pop · Leah Weldon  
 **Language:** C  
